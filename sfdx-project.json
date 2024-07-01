@@ -1,0 +1,20 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "IFI Project Development Baseline Unlocked",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "versionDescription": ""
+    }
+  ],
+  "name": "IFIBaselinePackage",
+  "namespace": "IFISF",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "61.0",
+  "packageAliases": {
+    "IFI Project Development Baseline Unlocked": "0HoPX00000000kn0AA",
+    "IFI Project Development Baseline Unlocked@0.1.0-1": "04tPX0000001HlBYAU"
+  }
+}

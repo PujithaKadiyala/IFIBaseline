@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>IFI_project_owner__c</fullName>
+    <externalId>false</externalId>
+    <label>Project Owner</label>
+    <required>false</required>
+    <trackFeedHistory>true</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>3rd Party Owner</fullName>
+                <default>false</default>
+                <label>3rd Party Owner</label>
+            </value>
+            <value>
+                <fullName>Acquisition</fullName>
+                <default>false</default>
+                <label>Acquisition</label>
+            </value>
+            <value>
+                <fullName>Aligned Climate Capital</fullName>
+                <default>false</default>
+                <label>Aligned Climate Capital</label>
+            </value>
+            <value>
+                <fullName>Avangrid Renewables</fullName>
+                <default>false</default>
+                <label>Avangrid Renewables</label>
+            </value>
+            <value>
+                <fullName>Birch Creek</fullName>
+                <default>false</default>
+                <label>Birch Creek</label>
+            </value>
+            <value>
+                <fullName>Capital Dynamics</fullName>
+                <default>false</default>
+                <label>Capital Dynamics</label>
+            </value>
+            <value>
+                <fullName>CarVal</fullName>
+                <default>false</default>
+                <label>CarVal</label>
+            </value>
+            <value>
+                <fullName>Churchill</fullName>
+                <default>false</default>
+                <label>Churchill</label>
+            </value>
+            <value>
+                <fullName>City of Knoxville</fullName>
+                <default>false</default>
+                <label>City of Knoxville</label>
+            </value>
+            <value>
+                <fullName>Clean Energy Collective</fullName>
+                <default>false</default>
+                <label>Clean Energy Collective</label>
+            </value>
+            <value>
+                <fullName>Clearway</fullName>
+                <default>false</default>
+                <label>Clearway</label>
+            </value>
+            <value>
+                <fullName>ConEd</fullName>
+                <default>false</default>
+                <label>ConEd</label>
+            </value>
+            <value>
+                <fullName>Cooperative Solar</fullName>
+                <default>false</default>
+                <label>Cooperative Solar</label>
+            </value>
+            <value>
+                <fullName>Cubico</fullName>
+                <default>false</default>
+                <label>Cubico</label>
+            </value>
+            <value>
+                <fullName>D.E. Shaw</fullName>
+                <default>false</default>
+                <label>D.E. Shaw</label>
+            </value>
+            <value>
+                <fullName>DNA Renewables</fullName>
+                <default>false</default>
+                <label>DNA Renewables</label>
+            </value>
+            <value>
+                <fullName>Delaware River</fullName>
+                <default>false</default>
+                <label>Delaware River</label>
+            </value>
+            <value>
+                <fullName>Development Partner Retained Site</fullName>
+                <default>false</default>
+                <label>Development Partner Retained Site</label>
+            </value>
+            <value>
+                <fullName>Dominion</fullName>
+                <default>false</default>
+                <label>Dominion</label>
+            </value>
+            <value>
+                <fullName>EDPR</fullName>
+                <default>false</default>
+                <label>EDPR</label>
+            </value>
+            <value>
+                <fullName>Energix</fullName>
+                <default>false</default>
+                <label>Energix</label>
+            </value>
+            <value>
+                <fullName>Enerparc Solar</fullName>
+                <default>false</default>
+                <label>Enerparc Solar</label>
+            </value>
+            <value>
+                <fullName>Excelsior Energy Capital</fullName>
+                <default>false</default>
+                <label>Excelsior Energy Capital</label>
+            </value>
+            <value>
+                <fullName>FLS - Sold</fullName>
+                <default>false</default>
+                <label>FLS - Sold</label>
+            </value>
+            <value>
+                <fullName>Florida Power &amp; Light</fullName>
+                <default>false</default>
+                <label>Florida Power &amp; Light</label>
+            </value>
+            <value>
+                <fullName>ForeFront Power</fullName>
+                <default>false</default>
+                <label>ForeFront Power</label>
+            </value>
+            <value>
+                <fullName>Franklin Park</fullName>
+                <default>false</default>
+                <label>Franklin Park</label>
+            </value>
+            <value>
+                <fullName>GCMC Solar Power</fullName>
+                <default>false</default>
+                <label>GCMC Solar Power</label>
+            </value>
+            <value>
+                <fullName>Galehead Development</fullName>
+                <default>false</default>
+                <label>Galehead Development</label>
+            </value>
+            <value>
+                <fullName>Gardner Solar</fullName>
+                <default>false</default>
+                <label>Gardner Solar</label>
+            </value>
+            <value>
+                <fullName>Generate</fullName>
+                <default>false</default>
+                <label>Generate</label>
+            </value>
+            <value>
+                <fullName>Greenbacker</fullName>
+                <default>false</default>
+                <label>Greenbacker</label>
+            </value>
+            <value>
+                <fullName>Haywood Community College</fullName>
+                <default>false</default>
+                <label>Haywood Community College</label>
+            </value>
+            <value>
+                <fullName>Hecate</fullName>
+                <default>false</default>
+                <label>Hecate</label>
+            </value>
+            <value>
+                <fullName>Heelstone Development</fullName>
+                <default>false</default>
+                <label>Heelstone Development</label>
+            </value>
+            <value>
+                <fullName>Helios</fullName>
+                <default>false</default>
+                <label>Helios</label>
+            </value>
+            <value>
+                <fullName>Holding - Cypress</fullName>
+                <default>false</default>
+                <label>Holding - Cypress</label>
+            </value>
+            <value>
+                <fullName>Holding - Declan</fullName>
+                <default>false</default>
+                <label>Holding - Declan</label>
+            </value>
+            <value>
+                <fullName>Holding - Ironwood</fullName>
+                <default>false</default>
+                <label>Holding - Ironwood</label>
+            </value>
+            <value>
+                <fullName>Holding - NCRE</fullName>
+                <default>false</default>
+                <label>Holding - NCRE</label>
+            </value>
+            <value>
+                <fullName>Holding - Pine Gate</fullName>
+                <default>false</default>
+                <label>Holding - Pine Gate</label>
+            </value>
+            <value>
+                <fullName>Holding - Sabal Solar</fullName>
+                <default>false</default>
+                <label>Holding - Sabal Solar</label>
+            </value>
+            <value>
+                <fullName>Holding “ Oakhurst</fullName>
+                <default>false</default>
+                <label>Holding “ Oakhurst</label>
+            </value>
+            <value>
+                <fullName>John Laing</fullName>
+                <default>false</default>
+                <label>John Laing</label>
+            </value>
+            <value>
+                <fullName>Kayne</fullName>
+                <default>false</default>
+                <label>Kayne</label>
+            </value>
+            <value>
+                <fullName>Leeward Renewable Energy</fullName>
+                <default>false</default>
+                <label>Leeward Renewable Energy</label>
+            </value>
+            <value>
+                <fullName>Meridian</fullName>
+                <default>false</default>
+                <label>Meridian</label>
+            </value>
+            <value>
+                <fullName>NES</fullName>
+                <default>false</default>
+                <label>NES</label>
+            </value>
+            <value>
+                <fullName>NRG</fullName>
+                <default>false</default>
+                <label>NRG</label>
+            </value>
+            <value>
+                <fullName>New Energy Capital (NEC)</fullName>
+                <default>false</default>
+                <label>New Energy Capital (NEC)</label>
+            </value>
+            <value>
+                <fullName>Next Grid Partners</fullName>
+                <default>false</default>
+                <label>Next Grid Partners</label>
+            </value>
+            <value>
+                <fullName>Oakhurst</fullName>
+                <default>false</default>
+                <label>Oakhurst</label>
+            </value>
+            <value>
+                <fullName>Ollo</fullName>
+                <default>false</default>
+                <label>Ollo</label>
+            </value>
+            <value>
+                <fullName>OneEnergy</fullName>
+                <default>false</default>
+                <label>OneEnergy</label>
+            </value>
+            <value>
+                <fullName>Pine Gate</fullName>
+                <default>false</default>
+                <label>Pine Gate</label>
+            </value>
+            <value>
+                <fullName>Red Toad</fullName>
+                <default>false</default>
+                <label>Red Toad</label>
+            </value>
+            <value>
+                <fullName>Renewable Energy Services (RES)</fullName>
+                <default>false</default>
+                <label>Renewable Energy Services (RES)</label>
+            </value>
+            <value>
+                <fullName>SRE Solar</fullName>
+                <default>false</default>
+                <label>SRE Solar</label>
+            </value>
+            <value>
+                <fullName>Silver Creek</fullName>
+                <default>false</default>
+                <label>Silver Creek</label>
+            </value>
+            <value>
+                <fullName>SolSystems</fullName>
+                <default>false</default>
+                <label>SolSystems</label>
+            </value>
+            <value>
+                <fullName>Soltage</fullName>
+                <default>false</default>
+                <label>Soltage</label>
+            </value>
+            <value>
+                <fullName>Sorghum (Birdseye)</fullName>
+                <default>false</default>
+                <label>Sorghum (Birdseye)</label>
+            </value>
+            <value>
+                <fullName>Southern Power Company</fullName>
+                <default>false</default>
+                <label>Southern Power Company</label>
+            </value>
+            <value>
+                <fullName>SunConnect</fullName>
+                <default>false</default>
+                <label>SunConnect</label>
+            </value>
+            <value>
+                <fullName>TLS</fullName>
+                <default>false</default>
+                <label>TLS</label>
+            </value>
+            <value>
+                <fullName>Vistra</fullName>
+                <default>false</default>
+                <label>Vistra</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
