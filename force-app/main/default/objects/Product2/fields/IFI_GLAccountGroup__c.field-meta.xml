@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>IFI_GLAccountGroup__c</fullName>
+    <externalId>false</externalId>
+    <label>GL Account Group</label>
+    <required>true</required>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>40100-NRR-Retail COLO Revenue</fullName>
+                <default>false</default>
+                <label>40100-NRR-Retail COLO Revenue</label>
+            </value>
+            <value>
+                <fullName>40100-RR-Retail COLO Revenue</fullName>
+                <default>false</default>
+                <label>40100-RR-Retail COLO Revenue</label>
+            </value>
+            <value>
+                <fullName>41000-NRR-Connectivity Revenue</fullName>
+                <default>false</default>
+                <label>41000-NRR-Connectivity Revenue</label>
+            </value>
+            <value>
+                <fullName>41000-RR-Connectivity Revenue</fullName>
+                <default>false</default>
+                <label>41000-RR-Connectivity Revenue</label>
+            </value>
+            <value>
+                <fullName>45100-NRR-Storage Services Standard</fullName>
+                <default>false</default>
+                <label>45100-NRR-Storage Services Standard</label>
+            </value>
+            <value>
+                <fullName>45100-RR-Storage Services Standard</fullName>
+                <default>false</default>
+                <label>45100-RR-Storage Services Standard</label>
+            </value>
+            <value>
+                <fullName>46000-NRR-Cloudramp Services Revenue</fullName>
+                <default>false</default>
+                <label>46000-NRR-Cloudramp Services Revenue</label>
+            </value>
+            <value>
+                <fullName>46000-RR-Cloudramp Services Revenue</fullName>
+                <default>false</default>
+                <label>46000-RR-Cloudramp Services Revenue</label>
+            </value>
+            <value>
+                <fullName>40000-NRR-Wholesale COLO Revenue</fullName>
+                <default>false</default>
+                <label>40000-NRR-Wholesale COLO Revenue</label>
+            </value>
+            <value>
+                <fullName>40000-RR-Wholesale COLO Revenue</fullName>
+                <default>false</default>
+                <label>40000-RR-Wholesale COLO Revenue</label>
+            </value>
+            <value>
+                <fullName>40500-NRR-NRC Setup/Startup</fullName>
+                <default>false</default>
+                <label>40500-NRR-NRC Setup/Startup</label>
+            </value>
+            <value>
+                <fullName>40500-RR-NRC Setup/Startup</fullName>
+                <default>false</default>
+                <label>40500-RR-NRC Setup/Startup</label>
+            </value>
+            <value>
+                <fullName>40600-NRR-Carrier Services</fullName>
+                <default>false</default>
+                <label>40600-NRR-Carrier Services</label>
+            </value>
+            <value>
+                <fullName>40600-RR-Carrier Services</fullName>
+                <default>false</default>
+                <label>40600-RR-Carrier Services</label>
+            </value>
+            <value>
+                <fullName>41001-NRR-Connectivity Revenue:Fiber Termination Panel</fullName>
+                <default>false</default>
+                <label>41001-NRR-Connectivity Revenue:Fiber Termination Panel</label>
+            </value>
+            <value>
+                <fullName>41001-RR-Connectivity Revenue:Fiber Termination Panel</fullName>
+                <default>false</default>
+                <label>41001-RR-Connectivity Revenue:Fiber Termination Panel</label>
+            </value>
+            <value>
+                <fullName>41002-NRR-Connectivity Revenue:Cross Connect</fullName>
+                <default>false</default>
+                <label>41002-NRR-Connectivity Revenue:Cross Connect</label>
+            </value>
+            <value>
+                <fullName>41002-RR-Connectivity Revenue:Cross Connect</fullName>
+                <default>false</default>
+                <label>41002-RR-Connectivity Revenue:Cross Connect</label>
+            </value>
+            <value>
+                <fullName>42000-NRR-Hosting Services Revenue</fullName>
+                <default>false</default>
+                <label>42000-NRR-Hosting Services Revenue</label>
+            </value>
+            <value>
+                <fullName>42000-RR-Hosting Services Revenue</fullName>
+                <default>false</default>
+                <label>42000-RR-Hosting Services Revenue</label>
+            </value>
+            <value>
+                <fullName>43000-NRR-Managed Services Revenue</fullName>
+                <default>false</default>
+                <label>43000-NRR-Managed Services Revenue</label>
+            </value>
+            <value>
+                <fullName>43000-RR-Managed Services Revenue</fullName>
+                <default>false</default>
+                <label>43000-RR-Managed Services Revenue</label>
+            </value>
+            <value>
+                <fullName>44000-NRR-Consulting/ Hands-on Revenue</fullName>
+                <default>false</default>
+                <label>44000-NRR-Consulting/ Hands-on Revenue</label>
+            </value>
+            <value>
+                <fullName>44000-RR-Consulting/ Hands-on Revenue</fullName>
+                <default>false</default>
+                <label>44000-RR-Consulting/ Hands-on Revenue</label>
+            </value>
+            <value>
+                <fullName>45000-NRR-Storage Services Revenue</fullName>
+                <default>false</default>
+                <label>45000-NRR-Storage Services Revenue</label>
+            </value>
+            <value>
+                <fullName>45000-RR-Storage Services Revenue</fullName>
+                <default>false</default>
+                <label>45000-RR-Storage Services Revenue</label>
+            </value>
+            <value>
+                <fullName>45200-NRR-Storage Services Overage</fullName>
+                <default>false</default>
+                <label>45200-NRR-Storage Services Overage</label>
+            </value>
+            <value>
+                <fullName>45200-RR-Storage Services Overage</fullName>
+                <default>false</default>
+                <label>45200-RR-Storage Services Overage</label>
+            </value>
+            <value>
+                <fullName>45300-NRR-Storage Download Overage</fullName>
+                <default>false</default>
+                <label>45300-NRR-Storage Download Overage</label>
+            </value>
+            <value>
+                <fullName>45300-RR-Storage Download Overage</fullName>
+                <default>false</default>
+                <label>45300-RR-Storage Download Overage</label>
+            </value>
+            <value>
+                <fullName>45400-NRR-Storage Services Port Connection</fullName>
+                <default>false</default>
+                <label>45400-NRR-Storage Services Port Connection</label>
+            </value>
+            <value>
+                <fullName>45400-RR-Storage Services Port Connection</fullName>
+                <default>false</default>
+                <label>45400-RR-Storage Services Port Connection</label>
+            </value>
+            <value>
+                <fullName>48000-NRR-Hardware Sales</fullName>
+                <default>false</default>
+                <label>48000-NRR-Hardware Sales</label>
+            </value>
+            <value>
+                <fullName>48000-RR-Hardware Sales</fullName>
+                <default>false</default>
+                <label>48000-RR-Hardware Sales</label>
+            </value>
+            <value>
+                <fullName>48100-NRR-Software Sales</fullName>
+                <default>false</default>
+                <label>48100-NRR-Software Sales</label>
+            </value>
+            <value>
+                <fullName>48100-RR-Software Sales</fullName>
+                <default>false</default>
+                <label>48100-RR-Software Sales</label>
+            </value>
+            <value>
+                <fullName>49100-NRR-Customer Discounts</fullName>
+                <default>false</default>
+                <label>49100-NRR-Customer Discounts</label>
+            </value>
+            <value>
+                <fullName>49100-RR-Customer Discounts</fullName>
+                <default>false</default>
+                <label>49100-RR-Customer Discounts</label>
+            </value>
+            <value>
+                <fullName>49200-NRR-Customer Credits</fullName>
+                <default>false</default>
+                <label>49200-NRR-Customer Credits</label>
+            </value>
+            <value>
+                <fullName>49200-RR-Customer Credits</fullName>
+                <default>false</default>
+                <label>49200-RR-Customer Credits</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
